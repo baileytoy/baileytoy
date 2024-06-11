@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Honeypot Home Lab - (Currently Working on)](https://github.com/baileytoy)
+Building a Security Operations Center / Honeynet using Microsoft Azure - Implementing a SIEM
+- [SOC-Honeynet HomeLab - (Currently Working on)](https://github.com/baileytoy/SOC-Honeynet)
 
 <h2>👨‍💻 SysAdmin Projects:</h2>
 
