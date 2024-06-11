@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [SIEM Home Lab - (Currently Working on)](https://github.com/baileytoy)
+- [Honeypot Home Lab - (Currently Working on)](https://github.com/baileytoy)
 
 <h2>👨‍💻 SysAdmin Projects:</h2>
 
