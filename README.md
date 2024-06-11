@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [SIEM Home Lab](https://github.com/baileytoy)
+- [SIEM Home Lab - Currently Working on](https://github.com/baileytoy)
 
 <h2>👨‍💻 SysAdmin Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/baileytoy)
+- [Active Directory Home Lab - Currently Working on](https://github.com/baileytoy)
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
