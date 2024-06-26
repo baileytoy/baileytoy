@@ -5,6 +5,9 @@
 Building a Security Operations Center / Honeynet using Microsoft Azure - Implementing a SIEM
 - [SOC-Honeynet HomeLab - (Currently Working on)](https://github.com/baileytoy/SOC-Honeynet)
 
+Conducting a Security Audit
+- [Security Audit](https://github.com/baileytoy/securityaudit)
+
 <h2>👨‍💻 SysAdmin Projects:</h2>
 
 - [Active Directory Home Lab - (Currently Working on)](https://github.com/baileytoy)
